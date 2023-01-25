@@ -1,0 +1,13 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&display=swap');
+h1, h2, h3, h4, h5{
+    font-family: 'EB Garamond', serif;
+}
+p, span, button{
+    font-family: 'Poppins', sans-serif;
+}
+.img-banner{
+    background: url(../images/banner.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
