@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5{
 p, span, button{
     font-family: 'Poppins', sans-serif;
 }
+img{
+    display: initial !important;
+}
+/* banner */
 .img-banner{
     background: url(../images/banner.png) no-repeat;
     background-size: cover;
